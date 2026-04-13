@@ -14,7 +14,7 @@ int main()
 	cout << "Reviewed and updated by Jack :)" << endl;
 	cout << "Lab 1 completed on April 8th, 2026!" << endl;
 	cout << "Feature by Fergiandane : Branching is awesome!" << endl;
-	cout << "Student ID: [S00480613] | Name: [Fergiandane]" << endl;
+	cout << "Student ID: [S00480613] | Name: [Dane]" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
