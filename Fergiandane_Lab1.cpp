@@ -7,8 +7,11 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello from Student A!\n";
+<<<<<<< HEAD
 	cout << "Hello from student B. \n";
+=======
+	cout << "Hello from Student A!\n";
+>>>>>>> f468d5b65a9003f653d86b7e3b8d5726d0c0c5c6
 	cout << "Git makes collaboration easy!" << endl;
 	cout << "Reviewed and updated by Jack :)" << endl;
 	cout << "Lab 1 completed on April 8th, 2026!" << endl;
