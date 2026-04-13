@@ -7,10 +7,12 @@ using namespace std;
 
 int main()
 {
+	cout << "Hello from Student A!\n";
 	cout << "Hello from student B. \n";
 	cout << "Git makes collaboration easy!" << endl;
 	cout << "Reviewed and updated by Jack :)" << endl;
 	cout << "Lab 1 completed on April 8th, 2026!" << endl;
+	cout << "Feature by Fergiandane : Branching is awesome!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
