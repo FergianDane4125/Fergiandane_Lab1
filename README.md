@@ -13,3 +13,6 @@ This is a simple C++ console application created for Git Lab 1
 - Jack
 
 ## Changes Made by Fergaindane: Added a feature greeting.
+
+## Team Members
+- Fergiandane - Features: student info display
